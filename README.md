@@ -9,6 +9,7 @@
 ![](https://api.travis-ci.org/TomasHubelbauer/vscode-markdown-todo.svg?branch=master)
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-todo)
+·
 [GitHub](https://github.com/TomasHubelbauer/vscode-markdown-todo)
 
 ## MarkDown Table Format
@@ -18,6 +19,7 @@
 ![](https://api.travis-ci.org/TomasHubelbauer/vscode-markdown-table-format.svg?branch=master)
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-table-format)
+·
 [GitHub](https://github.com/TomasHubelbauer/vscode-markdown-table-format)
 
 ## ZIP File System
@@ -26,6 +28,7 @@
 ![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.zip-file-system.svg)
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.zip-file-system)
+·
 [GitHub](https://github.com/TomasHubelbauer/vscode-zip-file-system)
 
 ## MarkDown Table of Contents
@@ -34,6 +37,7 @@
 ![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.markdown-table-of-contents.svg)
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.markdown-table-of-contents)
+·
 [GitHub](https://github.com/TomasHubelbauer/vscode-markdown-table-of-contents)
 
 ## MarkDown Box Drawing
@@ -43,6 +47,7 @@
 ![](https://api.travis-ci.org/TomasHubelbauer/vscode-box-drawing.svg?branch=master)
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-box-drawing)
+·
 [GitHub](https://github.com/TomasHubelbauer/vscode-box-drawing)
 
 ## Week Number
@@ -52,6 +57,7 @@
 ![](https://api.travis-ci.org/TomasHubelbauer/vscode-week-number.svg?branch=master)
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-week-number)
+·
 [GitHub](https://github.com/TomasHubelbauer/vscode-week-number)
 
 ## MarkDown Email Links
@@ -61,6 +67,7 @@
 ![](https://api.travis-ci.org/TomasHubelbauer/vscode-markdown-email-links.svg?branch=master)
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-email-links)
+·
 [GitHub](https://github.com/TomasHubelbauer/vscode-markdown-email-link)
 
 ## MarkDown Jira Links
@@ -69,6 +76,7 @@
 ![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.markdown-jira-links.svg)
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.markdown-jira-links)
+·
 [GitHub](https://github.com/TomasHubelbauer/vscode-markdown-jira-links)
 
 ## Email Viewer
@@ -78,6 +86,7 @@
 ![](https://api.travis-ci.org/TomasHubelbauer/vscode-email-viewer.svg?branch=master)
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.email-viewer)
+·
 [GitHub](https://github.com/TomasHubelbauer/vscode-email-viewer)
 
 ## MarkDown Link Suggestions
@@ -87,6 +96,7 @@
 ![](https://travis-ci.org/TomasHubelbauer/vscode-markdown-link-suggestions.svg?branch=master)
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-link-suggestions)
+·
 [GitHub](https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions)
 
 ## To-Do
