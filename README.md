@@ -88,3 +88,12 @@
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-link-suggestions)
 [GitHub](https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions)
+
+## To-Do
+
+### Replace telemetry with a local bug reporter
+
+Would prompt the user to allow/disallow saving crash report files which could then
+be attached to GitHub issues which I would open prefilled for the user.
+
+### Create a template for automated deployment and integrate it in the extensions
