@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.vscode-markdown-todo.svg)
 ![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.vscode-markdown-todo.svg)
-![](https://api.travis-ci.org/TomasHubelbauer/vscode-markdown-todo.svg?branch=master)
+![](https://github.com/tomashubelbauer/vscode-markdown-todo/workflows/.github/workflows/main.yml/badge.svg)
 
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-todo)
 ·
