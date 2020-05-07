@@ -81,7 +81,7 @@ https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions
 
 ## Extensions I Want To Make
 
-- VS Code Video - uses the binary editor API to render an HTML page playing the given video
+- [VS Code Video](https://github.com/TomasHubelbauer/vscode-video)
 
 ## Extension Quickstart
 
