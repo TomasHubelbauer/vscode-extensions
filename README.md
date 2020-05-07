@@ -1,8 +1,6 @@
 # VS Code Extensions
 
-## Extensions I Made
-
-[Marketplace](https://marketplace.visualstudio.com/search?term=publisher%3A"Tomas%20Hubelbauer"&target=VSCode)
+## [Extensions I Made](https://marketplace.visualstudio.com/search?term=publisher%3A"Tomas%20Hubelbauer"&target=VSCode)
 
 ### [MarkDown To-Do](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-todo)
 
