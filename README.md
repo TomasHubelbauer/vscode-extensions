@@ -83,6 +83,25 @@ https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions
 
 - VS Code Video - uses the binary editor API to render an HTML page playing the given video
 
+## Extension Quickstart
+
+The VS Code documentation articles are too talkative, so I'm keeping my own guide:
+
+1. Create a GitHub repository for the extension
+2. Close the GitHub repository
+3. Run `npx yo code`
+4. Answer *TypeScript* to the extension type
+5. Enter the human-friendly name of the extension
+6. Enter the extension ID (URL slug etc.)
+7. Enter the extension description
+8. Decline initializing a Git repository - already have one
+9. Select *npm* for the package manager
+10. Move the files from the directory to the root of the repository
+11. Delete the now empty directory and `.yo-repository`
+12. Run `npm install` and then press F5 to run the extension debugger
+
+API docs: https://code.visualstudio.com/api
+
 ## To-Do
 
 ### Replace telemetry with a local bug reporter
