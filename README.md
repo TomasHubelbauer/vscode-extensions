@@ -98,7 +98,8 @@ The VS Code documentation articles are too talkative, so I'm keeping my own guid
 9. Select *npm* for the package manager
 10. Move the files from the directory to the root of the repository
 11. Delete the now empty directory and `.yo-repository`
-12. Run `npm install` and then press F5 to run the extension debugger
+12. Add `node_modules` to a new `.gitignore`
+13. Run `npm install` and then press F5 to run the extension debugger
 
 API docs: https://code.visualstudio.com/api
 
