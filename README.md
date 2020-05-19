@@ -82,6 +82,8 @@ https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions
 ## Extensions I Want To Make
 
 - [VS Code Video](https://github.com/TomasHubelbauer/vscode-video)
+- VS Code MarkDown Wrap - auto-wrap lines of text to 80 (or whatever configured) characters
+  and having the wrap auto-update as the text is being updated
 
 ## Extension Quickstart
 
