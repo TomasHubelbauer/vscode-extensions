@@ -21,6 +21,7 @@ https://github.com/TomasHubelbauer/vscode-markdown-table-format
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.zip-file-system.svg)
 ![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.zip-file-system.svg)
+![](https://github.com/tomashubelbauer/vscode-zip-file-system/workflows/.github/workflows/main.yml/badge.svg)
 
 https://github.com/TomasHubelbauer/vscode-zip-file-system
 
