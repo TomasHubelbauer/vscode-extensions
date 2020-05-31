@@ -14,7 +14,6 @@ https://github.com/TomasHubelbauer/vscode-markdown-todo
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.vscode-markdown-table-format.svg)
 ![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.vscode-markdown-table-format.svg)
-![](https://api.travis-ci.org/TomasHubelbauer/vscode-markdown-table-format.svg?branch=master)
 
 https://github.com/TomasHubelbauer/vscode-markdown-table-format
 
@@ -36,7 +35,6 @@ https://github.com/TomasHubelbauer/vscode-markdown-table-of-contents
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.vscode-box-drawing.svg)
 ![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.vscode-box-drawing.svg)
-![](https://api.travis-ci.org/TomasHubelbauer/vscode-box-drawing.svg?branch=master)
 
 https://github.com/TomasHubelbauer/vscode-box-drawing
 
@@ -44,7 +42,6 @@ https://github.com/TomasHubelbauer/vscode-box-drawing
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.vscode-week-number.svg)
 ![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.vscode-week-number.svg)
-![](https://api.travis-ci.org/TomasHubelbauer/vscode-week-number.svg?branch=master)
 
 https://github.com/TomasHubelbauer/vscode-week-number
 
@@ -52,7 +49,6 @@ https://github.com/TomasHubelbauer/vscode-week-number
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.vscode-markdown-email-links.svg)
 ![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.vscode-markdown-email-links.svg)
-![](https://api.travis-ci.org/TomasHubelbauer/vscode-markdown-email-links.svg?branch=master)
 
 https://github.com/TomasHubelbauer/vscode-markdown-email-link
 
@@ -67,7 +63,7 @@ https://github.com/TomasHubelbauer/vscode-markdown-jira-links
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.email-viewer.svg)
 ![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.email-viewer.svg)
-![](https://api.travis-ci.org/TomasHubelbauer/vscode-email-viewer.svg?branch=master)
+![](https://github.com/tomashubelbauer/vscode-markdown-todo/workflows/.github/workflows/main.yml/badge.svg)
 
 https://github.com/TomasHubelbauer/vscode-email-viewer
 
@@ -75,7 +71,6 @@ https://github.com/TomasHubelbauer/vscode-email-viewer
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/tomashubelbauer.vscode-markdown-link-suggestions.svg)
 ![](https://img.shields.io/visual-studio-marketplace/d/tomashubelbauer.vscode-markdown-link-suggestions.svg)
-![](https://travis-ci.org/TomasHubelbauer/vscode-markdown-link-suggestions.svg?branch=master)
 
 https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions
 
