@@ -5,7 +5,8 @@
 ### [MarkDown To-Do](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-todo)
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.vscode-markdown-todo.svg)
-![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.vscode-markdown-todo.svg)
+![](https://vsmarketplacebadge.apphb.com/installs-short/TomasHubelbauer.vscode-markdown-todo.svg)
+![](https://vsmarketplacebadge.apphb.com/downloads-short/TomasHubelbauer.vscode-markdown-todo.svg)
 ![](https://github.com/tomashubelbauer/vscode-markdown-todo/workflows/.github/workflows/main.yml/badge.svg)
 
 https://github.com/TomasHubelbauer/vscode-markdown-todo
@@ -13,14 +14,16 @@ https://github.com/TomasHubelbauer/vscode-markdown-todo
 ### [MarkDown Table Format](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-table-format)
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.vscode-markdown-table-format.svg)
-![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.vscode-markdown-table-format.svg)
+![](https://vsmarketplacebadge.apphb.com/installs-short/TomasHubelbauer.vscode-markdown-table-format.svg)
+![](https://vsmarketplacebadge.apphb.com/downloads-short/TomasHubelbauer.vscode-markdown-table-format.svg)
 
 https://github.com/TomasHubelbauer/vscode-markdown-table-format
 
 ### [ZIP File System](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.zip-file-system)
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.zip-file-system.svg)
-![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.zip-file-system.svg)
+![](https://vsmarketplacebadge.apphb.com/installs-short/TomasHubelbauer.zip-file-system.svg)
+![](https://vsmarketplacebadge.apphb.com/downloads-short/TomasHubelbauer.zip-file-system.svg)
 ![](https://github.com/tomashubelbauer/vscode-zip-file-system/workflows/.github/workflows/main.yml/badge.svg)
 
 https://github.com/TomasHubelbauer/vscode-zip-file-system
@@ -28,42 +31,48 @@ https://github.com/TomasHubelbauer/vscode-zip-file-system
 ### [MarkDown Table of Contents](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.markdown-table-of-contents)
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.markdown-table-of-contents.svg)
-![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.markdown-table-of-contents.svg)
+![](https://vsmarketplacebadge.apphb.com/installs-short/TomasHubelbauer.markdown-table-of-contents.svg)
+![](https://vsmarketplacebadge.apphb.com/downloads-short/TomasHubelbauer.markdown-table-of-contents.svg)
 
 https://github.com/TomasHubelbauer/vscode-markdown-table-of-contents
 
 ### [MarkDown Box Drawing](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-box-drawing)
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.vscode-box-drawing.svg)
-![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.vscode-box-drawing.svg)
+![](https://vsmarketplacebadge.apphb.com/installs-short/TomasHubelbauer.vscode-box-drawing.svg)
+![](https://vsmarketplacebadge.apphb.com/downloads-short/TomasHubelbauer.vscode-box-drawing.svg)
 
 https://github.com/TomasHubelbauer/vscode-box-drawing
 
 ### [Week Number](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-week-number)
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.vscode-week-number.svg)
-![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.vscode-week-number.svg)
+![](https://vsmarketplacebadge.apphb.com/installs-short/TomasHubelbauer.vscode-week-number.svg)
+![](https://vsmarketplacebadge.apphb.com/downloads-short/TomasHubelbauer.vscode-week-number.svg)
 
 https://github.com/TomasHubelbauer/vscode-week-number
 
 ### [MarkDown Email Links](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-email-links)
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.vscode-markdown-email-links.svg)
-![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.vscode-markdown-email-links.svg)
+![](https://vsmarketplacebadge.apphb.com/installs-short/TomasHubelbauer.vscode-markdown-email-links.svg)
+![](https://vsmarketplacebadge.apphb.com/downloads-short/TomasHubelbauer.vscode-markdown-email-links.svg)
 
 https://github.com/TomasHubelbauer/vscode-markdown-email-link
 
 ### [MarkDown Jira Links](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.markdown-jira-links)
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.markdown-jira-links.svg)
-![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.markdown-jira-links.svg)
+![](https://vsmarketplacebadge.apphb.com/installs-short/TomasHubelbauer.markdown-jira-links.svg)
+![](https://vsmarketplacebadge.apphb.com/downloads-short/TomasHubelbauer.markdown-jira-links.svg)
 
 https://github.com/TomasHubelbauer/vscode-markdown-jira-links
 
 ### [Email Viewer](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.email-viewer)
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/TomasHubelbauer.email-viewer.svg)
-![](https://img.shields.io/visual-studio-marketplace/d/TomasHubelbauer.email-viewer.svg)
+![](https://vsmarketplacebadge.apphb.com/installs-short/TomasHubelbauer.email-viewer.svg)
+![](https://vsmarketplacebadge.apphb.com/downloads-short/TomasHubelbauer.email-viewer.svg)
 ![](https://github.com/tomashubelbauer/vscode-markdown-todo/workflows/.github/workflows/main.yml/badge.svg)
 
 https://github.com/TomasHubelbauer/vscode-email-viewer
@@ -71,7 +80,8 @@ https://github.com/TomasHubelbauer/vscode-email-viewer
 ### [MarkDown Link Suggestions](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-link-suggestions)
 
 ![](https://img.shields.io/visual-studio-marketplace/stars/tomashubelbauer.vscode-markdown-link-suggestions.svg)
-![](https://img.shields.io/visual-studio-marketplace/d/tomashubelbauer.vscode-markdown-link-suggestions.svg)
+![](https://vsmarketplacebadge.apphb.com/installs-short/TomasHubelbauer.vscode-markdown-link-suggestions.svg)
+![](https://vsmarketplacebadge.apphb.com/downloads-short/TomasHubelbauer.vscode-markdown-link-suggestions.svg)
 
 https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions
 
