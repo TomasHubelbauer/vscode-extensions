@@ -85,9 +85,16 @@ https://github.com/TomasHubelbauer/vscode-email-viewer
 
 https://github.com/TomasHubelbauer/vscode-markdown-link-suggestions
 
+### Video
+
+![](https://github.com/tomashubelbauer/vscode-video/workflows/.github/workflows/main.yml/badge.svg)
+
+https://github.com/TomasHubelbauer/vscode-video
+
+Not published yet because it uses the proposed Custom Editor API.
+
 ## Extensions I Want To Make
 
-- [VS Code Video](https://github.com/TomasHubelbauer/vscode-video)
 - VS Code MarkDown Wrap - auto-wrap lines of text to 80 (or whatever configured) characters
   and having the wrap auto-update as the text is being updated
 
